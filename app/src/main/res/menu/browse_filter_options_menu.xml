@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/id_browse_filterOptions_title"
+        android:title="Title" />
+    <item
+        android:id="@+id/id_browse_filterOptions_series"
+        android:title="Series" />
+    <item
+        android:id="@+id/id_browse_filterOptions_authorName"
+        android:title="Author Name" />
+    <item
+        android:id="@+id/id_browse_filterOptions_readOnly"
+        android:title="Read Only" />
+    <item
+        android:id="@+id/id_browse_filterOptions_unreadOnly"
+        android:title="Unread Only" />
+</menu>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/id_bookList_item_menu_markRead"
+        android:title="Mark As Read" />
+    <item
+        android:id="@+id/id_bookList_item_menu_addQuotation"
+        android:title="Add Quotation" />
+</menu>
